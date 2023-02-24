@@ -2,7 +2,7 @@
  This documentation is for the stable release of Orion Library.
  ## Booting the Library
  ```
- local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrGalaxy10/shlexware-Orion/main/Source",true))()
+ local OrionLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/MrGalaxy10/shlexware-Orion/main/PrivateSource",true))()
  ```
  ## Creating a Window
  ```
